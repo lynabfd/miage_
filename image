@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+         <link rel="stylesheet" href="style.css" />
+        <title>Comment réussir ma miage?</title>
+    </head>
+
+    <body>
+        <img src="logo.jpeg" alt="logo" />
+      
+        <h1>Comment réussir ma MIAGE?</h1>
+        <h2>Présentation de l'entreprise</h2>
+        <p>La solution qu'on propose est de coder un <strong class="clr">Site Web</strong> dont le but est :</p>
+        <ul>
+            <li>Donner des réponses aux questions des étudiants.</li>
+            <li>Présenter différent profils et témoignages d'alumni qui décriront leur
+parcours en formation et dans le milieu professionnel.</li>
+            <li>Des informations décisives sur la formation MIAGE.</li>
+            <li>Connaitre la vie après la MIAGE et les potentielles évolutions de
+carrières.</li>
+        </ul>
+        <p>Cette solution aidera les étudiants pour orienter leurs choix et faciliter leurs recherches</p>
+    </body>
+         <h2>Présentation de l'équipe:</h2>
+         <h3>BOUFADES Lina</h3>
+         <p>Etudiante en l3 Miage en apprentissage à l'université Paris Saclay, apres avoir fait 2ans de licence informatique à l'université Sobonne Paris Nord, passionée par le domaine de l'informatique.</p>
+         <h3>RABIA Bania</h3>
+         <p>Etudiante en l3 Miage en initialie à l'université Paris Saclay, apres avoir fait 2ans de licence informatique à l'université Sobonne Paris Nord.</p>
+         <h3>FADLI Mehdi</h3>
+         <p>Etudiant en l3 Miage en initialie à l'université Paris Saclay, apres avoir fait 1 an de licence électronique à la Sobonne, passioné par les nouvelles technologies.</p>
+         <h3>CHETOUANI Liza</h3>
+         <p>Etudiante en l3 Miage en apprentissage à l'université Paris Saclay, apres avoir fait 1 an de licence électronique à la Sobonne .</p>
+         <h3>LEDARD Faustin</h3>
+         <p>Étudiant en apprentissage à l'université Paris Saclay en L3 informatique parcours MIAGE .</p>
+         <p><strong>Pour accéder a nos rendus:</strong></p>
+         <p> <a href="https://upsud-my.sharepoint.com/:p:/g/personal/faustin_ledard_u-psud_fr/EdAAlUATzjdOvVjOeG-aAq0BMqtq7YON1hc79AO4veLWsw?rtime=xwtd69DK2kg">Rendu 1</a> <br />
+        <p> <a href="https://1drv.ms/p/s!AprgENJv1iBIaWrNRrqUSRVmvSE">Rendu 2</a> <br />
+         </p>
+         
+         <p> <a href="https://lizachet.github.io/Mon-ripo/">Prototype manuel</a> </p>
+</html>
